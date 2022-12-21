@@ -1,0 +1,12 @@
+.menu{
+    display: flex;
+    font-size: 30px;
+}
+
+.menu__list{
+    margin-right: 25px;
+}
+
+.menu__list:hover:last-child{
+    color: red;
+}
